@@ -1,9 +1,5 @@
 ### Hi there, I'm tkt 👋
 
-[![tkt's github stats](https://github-readme-stats.vercel.app/api?username=tktcorporation&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 I'm a web application developper from Japan.
 
 - 🔭 I’m currently working on [typescript-isolating-domain](https://github.com/tktcorporation/typescript-isolating-the-domain)
@@ -18,3 +14,5 @@ I'm a web application developper from Japan.
 - ⚡ Fun fact: ...
 -->
 
+[![tkt's github stats](https://github-readme-stats.vercel.app/api?username=tktcorporation&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
