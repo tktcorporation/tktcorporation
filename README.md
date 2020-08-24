@@ -2,8 +2,8 @@
 
 I'm a web application developper from Japan.
 
-- 🔭 I’m currently working on [typescript-isolating-domain](https://github.com/tktcorporation/typescript-isolating-the-domain)
-- 🌱 I’m currently learning DDD & Typescript
+- 🔭 I’m currently working on [janken app](https://github.com/tktcorporation/janken)
+- 🌱 I’m currently learning Dart $ Flutter
 - 💬 Ask me about anything [here](https://github.com/tktcorporation/tktcorporation/issues)
 
 <!--
