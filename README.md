@@ -2,8 +2,8 @@
 
 I'm a web application developper from Japan.
 
-- 🔭 I’m currently working on [janken app](https://github.com/tktcorporation/janken)
-- 🌱 I’m currently learning Dart & Flutter
+- 🔭 I’m currently working on いろいろ
+- 🌱 I’m currently learning Flutter, Rust
 - 💬 Ask me about anything [here](https://github.com/tktcorporation/tktcorporation/issues)
 
 <!--
