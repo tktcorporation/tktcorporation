@@ -14,7 +14,7 @@
 <a href="https://dev.to/tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tktcorporation" height="30" width="40" /></a>
 <a href="https://twitter.com/tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tktcorporation" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tktcorporation" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12852199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tktcorporation" height="30" width="40" /></a>
 <a href="https://instagram.com/tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tktcorporation" height="30" width="40" /></a>
 <a href="https://medium.com/@tktcorporation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tktcorporation" height="30" width="40" /></a>
 </p>
