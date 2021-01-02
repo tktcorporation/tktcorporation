@@ -11,15 +11,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://twitter.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://qiita.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qiita.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://zenn.dev/tktcorporation" target="blank"><img src="https://simpleicons.org/icons/zenn.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12852199" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://instagram.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://medium.com/@tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tktcorporation" height="30" width="40" /></a>
-<a href="https://dev.to/tktcorporation" target="blank"> <a href="https://dev.to/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tktcorporation" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tktcorporation" height="30" width="40" /></a>
+<a href="https://github.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://twitter.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://qiita.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qiita.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://zenn.dev/tktcorporation" target="blank"><img src="https://simpleicons.org/icons/zenn.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://stackoverflow.com/users/12852199" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://instagram.com/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://medium.com/@tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://dev.to/tktcorporation" target="blank"> <a href="https://dev.to/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
+<a href="https://linkedin.com/in/tktcorporation" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tktcorporation" height="30" width="40" style="filter: invert(88%) sepia(61%) saturate(0%) hue-rotate(229deg) brightness(107%) contrast(101%)" /></a>
 </p>
 
 
