@@ -24,7 +24,7 @@
 
 
 [![tkt's github stats](https://github-readme-stats.vercel.app/api?username=tktcorporation&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tktcorporation&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tktcorporation&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tktcorporation&&show_icons=true&theme=tokyonight" alt="tktcorporation" /></p>
 
 <h3 align="left">Support:</h3>
