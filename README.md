@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tktcorporation&label=Profile%20views&color=0e75b6&style=flat" alt="tktcorporation" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tktcorporation" target="blank"><img src="https://img.shields.io/twitter/follow/tktcorporation?logo=twitter&style=for-the-badge" alt="tktcorporation" /></a> </p>
-
 - 🌱 I’m currently learning **Kotlin Android**
 
 - 📫 How to reach me **tktcorporation.go@gmail.com**
