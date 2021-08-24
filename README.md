@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin Android**
 
-- 📫 How to reach me **tktcorporation.go@gmail.com**
+- 📫 How to reach me **[Twitter](https://twitter.com/tktcorporation)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
