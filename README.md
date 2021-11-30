@@ -44,16 +44,21 @@ Sunday       374 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs               █████████████████████░░░░   87.24% 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.26% 
+textmate                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.98% 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
+protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 hrs 35 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scouty                   4 hrs 24 mins       ████████████████████████░   96.13% 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.87%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 35 mins       █████████████████████████   100.0%
 
 ```
 
@@ -70,7 +75,7 @@ Dockerfile               6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
