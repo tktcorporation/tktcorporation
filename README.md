@@ -13,8 +13,6 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -74,7 +72,7 @@ Dockerfile               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2022 01:16:17 UTC
+ Last Updated on 28/03/2022 00:07:34 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
