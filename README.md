@@ -13,8 +13,6 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **I'm a Night 🦉** 
@@ -46,18 +44,13 @@ Sunday       261 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Docker                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
-Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
-Vue.js                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 11 mins        ████████████████░░░░░░░░░   65.42% 
-VS Code                  37 mins             ████████░░░░░░░░░░░░░░░░░   34.58%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 48 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,7 +67,7 @@ Dockerfile               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 01:16:22 UTC
+ Last Updated on 06/05/2022 00:06:44 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
