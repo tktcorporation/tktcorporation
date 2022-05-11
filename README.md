@@ -13,7 +13,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -46,14 +46,17 @@ Sunday       261 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   2 mins              █████████████████████████   100.0% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Vue.js                   13 mins             ██████████████████░░░░░░░   73.58% 
+Python                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.25% 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.0%
+PyCharm                  18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+Linux                    18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -70,7 +73,7 @@ Dockerfile               7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2022 01:18:20 UTC
+ Last Updated on 11/05/2022 00:09:30 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
