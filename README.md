@@ -54,7 +54,11 @@ PyCharm                  13 hrs 18 mins      ███████████�
 VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.31%
 
 💻 Operating System: 
-Linux                    14 hrs 31 mins      █████████████████████████   100.0%
+modules                  11 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+django                   10 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+typing                   9 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+submodules               7 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
+datetime                 6 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.53%
 
 ```
 
@@ -71,7 +75,7 @@ Dockerfile               8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 00:08:06 UTC
+ Last Updated on 04/09/2022 00:32:14 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
