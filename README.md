@@ -10,8 +10,8 @@
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/tktcorporation" target="_blank" rel="noopener noreferrer"><img alt="tktcorporation's scores on LAPRAS are as follows: Engineering: 3.87 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.59 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.87&b=3.48&i=3.59&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="300" ></a>  
-Last Updated on 8/13/2023, 12:01:45 AM</p>
+<p ><a href="https://lapras.com/public/tktcorporation" target="_blank" rel="noopener noreferrer"><img alt="tktcorporation's scores on LAPRAS are as follows: Engineering: 3.86 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.59 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.86&b=3.48&i=3.59&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="300" ></a>  
+Last Updated on 8/14/2023, 12:01:43 AM</p>
 <!--END_SECTION:lapras-card-->
   
 <!--START_SECTION:waka-->
