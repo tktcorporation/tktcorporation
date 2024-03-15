@@ -8,11 +8,6 @@
 <a href="https://qiita.com/tktcorporation" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/tktcorporation" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 </p>
-
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/tktcorporation" target="_blank" rel="noopener noreferrer"><img alt="tktcorporation's scores on LAPRAS are as follows: Engineering: 4.07 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.58 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.07&b=3.48&i=3.58&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="300" ></a>  
-Last Updated on 3/15/2024, 12:01:46 AM</p>
-<!--END_SECTION:lapras-card-->
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C436%20hrs%2033%20mins-blue)
