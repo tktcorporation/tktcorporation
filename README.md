@@ -10,8 +10,6 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C817%20hrs%2026%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -45,7 +43,7 @@ Python                   4 hrs 50 mins       ███████████�
 Vue.js                   1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 YAML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 🔥 Editors: 
 VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
@@ -67,7 +65,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 01:13:50 UTC
+ Last Updated on 04/11/2024 00:21:36 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
