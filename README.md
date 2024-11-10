@@ -10,6 +10,8 @@
 </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C835%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
@@ -67,7 +69,7 @@ Vue                      10 repos            █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 00:22:18 UTC
+ Last Updated on 10/11/2024 00:48:54 UTC
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
