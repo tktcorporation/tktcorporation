@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tktcorporation&label=Profile%20views&color=0e75b6&style=flat" alt="tktcorporation" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tktcorporation&label=Profile%20views&color=0e75b6&style=flat" alt="tktcorporation" /> </p> -->
 
 <h3>Where to find me</h3>
 <p>
