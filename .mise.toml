@@ -1,0 +1,11 @@
+[tools]
+node = { version = "prefix:22", source = "package_json" }
+bun = "latest"
+"npm:@anthropic-ai/claude-code" = "latest"
+"npm:@antfu/ni" = "latest"
+
+[settings]
+experimental = true
+
+[env]
+NODE_ENV = "development"
