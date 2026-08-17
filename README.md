@@ -13,9 +13,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    184 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
-🌆 Daytime    554 commits    ███████░░░░░░░░░░░░░░░░░░   28.4% 
-🌃 Evening    576 commits    ███████░░░░░░░░░░░░░░░░░░   29.52% 
+🌞 Morning    185 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+🌆 Daytime    555 commits    ███████░░░░░░░░░░░░░░░░░░   28.45% 
+🌃 Evening    574 commits    ███████░░░░░░░░░░░░░░░░░░   29.42% 
 🌙 Night      637 commits    ████████░░░░░░░░░░░░░░░░░   32.65%
 
 ```
@@ -39,19 +39,19 @@ Sunday       381 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-Python                   2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
-TypeScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
-SQL                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-Text                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
+Python                   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97% 
+Markdown                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93% 
+TypeScript               3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+SQL                      1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
+HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.29%
 
 🔥 Editors: 
-Claude Code              10 hrs 55 mins      ███████████████████████░░   92.16% 
-VS Code                  55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Claude Code              18 hrs 8 mins       ███████████████████████░░   94.58% 
+VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 💻 Operating System: 
-Linux                    11 hrs 51 mins      █████████████████████████   100.0%
+Linux                    19 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -68,7 +68,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026
+ Last Updated on 17/08/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
