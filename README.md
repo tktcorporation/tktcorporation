@@ -39,19 +39,20 @@ Sunday       379 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   38.63% 
-Python                   2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.5% 
-Markdown                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-Bash                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-Go                       1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.43%
+TypeScript               10 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   42.98% 
+Markdown                 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Go                       1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
+SQL                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
+Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
 
 🔥 Editors: 
-Claude Code              14 hrs 45 mins      ██████████████░░░░░░░░░░░   56.63% 
-VS Code                  7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   27.15% 
-Codex CLI                4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22%
+Claude Code              13 hrs 51 mins      ██████████████░░░░░░░░░░░   55.88% 
+VS Code                  6 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   26.95% 
+Codex CLI                4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 💻 Operating System: 
-Linux                    26 hrs 3 mins       █████████████████████████   100.0%
+Linux                    24 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -60,7 +61,7 @@ Linux                    26 hrs 3 mins       ███████████�
 ```text
 TypeScript               53 repos            ████████████████░░░░░░░░░   65.43% 
 C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
 Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
 JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 
@@ -68,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026
+ Last Updated on 27/08/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
