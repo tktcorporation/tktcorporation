@@ -13,9 +13,9 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    183 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-🌆 Daytime    559 commits    ███████░░░░░░░░░░░░░░░░░░   28.64% 
-🌃 Evening    570 commits    ███████░░░░░░░░░░░░░░░░░░   29.2% 
+🌞 Morning    181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
+🌆 Daytime    560 commits    ███████░░░░░░░░░░░░░░░░░░   28.69% 
+🌃 Evening    571 commits    ███████░░░░░░░░░░░░░░░░░░   29.25% 
 🌙 Night      640 commits    ████████░░░░░░░░░░░░░░░░░   32.79%
 
 ```
@@ -39,21 +39,21 @@ Sunday       382 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 12 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   27.71% 
-TypeScript               12 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   27.12% 
-SQL                      5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.22% 
-JSON                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-TOML                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+TypeScript               15 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   33.88% 
+Markdown                 10 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   21.56% 
+Python                   4 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
+SQL                      3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+TOML                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
 
 🔥 Editors: 
-Claude Code              41 hrs 31 mins      ███████████████████████░░   91.58% 
-VS Code                  2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-Codex CLI                1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+Claude Code              39 hrs 10 mins      ████████████████████░░░░░   83.02% 
+Codex CLI                4 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
+VS Code                  3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 💻 Operating System: 
-Linux                    45 hrs 20 mins      █████████████████████████   100.0%
+Linux                    47 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -70,7 +70,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026
+ Last Updated on 01/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
