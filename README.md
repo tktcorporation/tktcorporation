@@ -13,22 +13,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-🌆 Daytime    561 commits    ███████░░░░░░░░░░░░░░░░░░   28.73% 
-🌃 Evening    571 commits    ███████░░░░░░░░░░░░░░░░░░   29.24% 
-🌙 Night      640 commits    ████████░░░░░░░░░░░░░░░░░   32.77%
+🌞 Morning    182 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
+🌆 Daytime    561 commits    ███████░░░░░░░░░░░░░░░░░░   28.71% 
+🌃 Evening    571 commits    ███████░░░░░░░░░░░░░░░░░░   29.22% 
+🌙 Night      640 commits    ████████░░░░░░░░░░░░░░░░░   32.75%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       444 commits    █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-Tuesday      225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
-Wednesday    181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Thursday     126 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Monday       444 commits    █████░░░░░░░░░░░░░░░░░░░░   22.72% 
+Tuesday      225 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
+Wednesday    181 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Thursday     127 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.5% 
 Friday       218 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Saturday     379 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.41% 
-Sunday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.46%
+Saturday     379 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+Sunday       380 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.45%
 
 ```
 
@@ -39,38 +39,37 @@ Sunday       380 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               15 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   39.04% 
-Markdown                 7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51% 
-JSON                     2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
-Python                   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-TOML                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.12%
+TypeScript               13 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.87% 
+Markdown                 6 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92% 
+JSON                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+TOML                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
+SQL                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
 
 🔥 Editors: 
-Claude Code              31 hrs 16 mins      ███████████████████░░░░░░   78.05% 
-Codex CLI                5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-VS Code                  3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.69% 
-Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Claude Code              22 hrs 53 mins      ██████████████████░░░░░░░   71.88% 
+Codex CLI                5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+VS Code                  3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
+Codex Exec               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 💻 Operating System: 
-Linux                    40 hrs 3 mins       █████████████████████████   100.0%
+Linux                    31 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               52 repos            ████████████████░░░░░░░░░   65.0% 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+TypeScript               53 repos            ████████████████░░░░░░░░░   65.43% 
+C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 
 ```
 
 
 
- Last Updated on 03/09/2026
+ Last Updated on 04/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
