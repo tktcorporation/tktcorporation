@@ -39,20 +39,20 @@ Sunday       381 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 12 hrs              █████████░░░░░░░░░░░░░░░░   36.98% 
-TypeScript               11 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   35.62% 
-JSON                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
-Vue                      1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+TypeScript               10 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   40.49% 
+Markdown                 8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.46% 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+Vue                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+Other                    51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
 
 🔥 Editors: 
-Claude Code              22 hrs 2 mins       █████████████████░░░░░░░░   67.85% 
-Codex CLI                7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63% 
-VS Code                  2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+Claude Code              17 hrs 52 mins      ████████████████░░░░░░░░░   66.59% 
+Codex CLI                6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66% 
+VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 💻 Operating System: 
-Linux                    32 hrs 28 mins      █████████████████████████   100.0%
+Linux                    26 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026
+ Last Updated on 10/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
