@@ -39,20 +39,20 @@ Sunday       381 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               10 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   40.49% 
-Markdown                 8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.46% 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
-Vue                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-Other                    51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22%
+TypeScript               9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   41.52% 
+Markdown                 8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   34.86% 
+JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+Text                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
+Other                    42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
 
 🔥 Editors: 
-Claude Code              17 hrs 52 mins      ████████████████░░░░░░░░░   66.59% 
-Codex CLI                6 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66% 
-VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
-Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+Claude Code              15 hrs 49 mins      ████████████████░░░░░░░░░   66.05% 
+Codex CLI                5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86% 
+VS Code                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
 
 💻 Operating System: 
-Linux                    26 hrs 50 mins      █████████████████████████   100.0%
+Linux                    23 hrs 57 mins      █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026
+ Last Updated on 11/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
