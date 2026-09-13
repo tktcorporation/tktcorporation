@@ -39,20 +39,19 @@ Sunday       381 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   43.07% 
-Markdown                 5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.92% 
-JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.41% 
-SQL                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
+Markdown                 4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   35.33% 
+TypeScript               3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   30.05% 
+SQL                      1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 🔥 Editors: 
-Claude Code              12 hrs 50 mins      ████████████████░░░░░░░░░   66.76% 
-Codex CLI                4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   23.41% 
-VS Code                  1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
-Codex Exec               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
+Claude Code              5 hrs 54 mins       ███████████░░░░░░░░░░░░░░   44.91% 
+Codex CLI                4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.48% 
+VS Code                  2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61%
 
 💻 Operating System: 
-Linux                    19 hrs 13 mins      █████████████████████████   100.0%
+Linux                    13 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +68,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026
+ Last Updated on 13/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
