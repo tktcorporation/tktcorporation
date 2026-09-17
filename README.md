@@ -14,21 +14,21 @@
 
 ```text
 🌞 Morning    185 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-🌆 Daytime    554 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
-🌃 Evening    568 commits    ███████░░░░░░░░░░░░░░░░░░   29.32% 
-🌙 Night      630 commits    ████████░░░░░░░░░░░░░░░░░   32.52%
+🌆 Daytime    557 commits    ███████░░░░░░░░░░░░░░░░░░   28.74% 
+🌃 Evening    568 commits    ███████░░░░░░░░░░░░░░░░░░   29.31% 
+🌙 Night      628 commits    ████████░░░░░░░░░░░░░░░░░   32.4%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       440 commits    █████░░░░░░░░░░░░░░░░░░░░   22.72% 
+Monday       440 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
 Tuesday      236 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Wednesday    170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Wednesday    174 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
 Thursday     118 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-Friday       214 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
-Saturday     377 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
-Sunday       382 commits    █████░░░░░░░░░░░░░░░░░░░░   19.72%
+Friday       214 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Saturday     376 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+Sunday       380 commits    █████░░░░░░░░░░░░░░░░░░░░   19.61%
 
 ```
 
@@ -39,36 +39,36 @@ Sunday       382 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   34.71% 
-SQL                      2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-TypeScript               2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74% 
-CSS                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+TypeScript               3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   30.66% 
+Markdown                 3 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.85% 
+SQL                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+CSS                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79%
 
 🔥 Editors: 
-Codex CLI                7 hrs 16 mins       ████████████████░░░░░░░░░   67.36% 
-VS Code                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-Claude Code              1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81%
+Codex CLI                8 hrs 39 mins       █████████████████░░░░░░░░   71.14% 
+VS Code                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+Claude Code              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.49%
 
 💻 Operating System: 
-Linux                    10 hrs 48 mins      █████████████████████████   100.0%
+Linux                    12 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               53 repos            ████████████████░░░░░░░░░   65.43% 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.64% 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
+TypeScript               54 repos            ████████████████░░░░░░░░░   65.85% 
+C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
 
 
 
- Last Updated on 16/09/2026
+ Last Updated on 17/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
