@@ -39,19 +39,19 @@ Sunday       384 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43% 
-Markdown                 3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   22.27% 
-SQL                      2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-CSS                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+TypeScript               3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.11% 
+Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
+CSS                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+SQL                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+HTML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
 
 🔥 Editors: 
-Codex CLI                10 hrs 2 mins       ████████████████░░░░░░░░░   66.33% 
-Claude Code              2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-VS Code                  2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.48%
+Codex CLI                5 hrs 11 mins       ██████████████░░░░░░░░░░░   56.47% 
+Claude Code              2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.97% 
+VS Code                  1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.56%
 
 💻 Operating System: 
-Linux                    15 hrs 8 mins       █████████████████████████   100.0%
+Linux                    9 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -68,7 +68,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026
+ Last Updated on 22/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
