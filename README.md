@@ -39,21 +39,20 @@ Sunday       377 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.21% 
-Markdown                 7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89% 
-Rust                     3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
-Other                    3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
-TOML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
+TypeScript               10 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   29.37% 
+Markdown                 8 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88% 
+Other                    3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.69% 
+Rust                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
+Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.14%
 
 🔥 Editors: 
-Claude Code              18 hrs 35 mins      ███████████████░░░░░░░░░░   59.96% 
-VS Code                  5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-Codex CLI                3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74% 
-Codex Vscode             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Codex Exec               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+Claude Code              23 hrs 41 mins      █████████████████░░░░░░░░   68.76% 
+VS Code                  5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Codex Vscode             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
+Codex CLI                2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.07%
 
 💻 Operating System: 
-Linux                    31 hrs 1 min        █████████████████████████   100.0%
+Linux                    34 hrs 27 mins      █████████████████████████   100.0%
 
 ```
 
@@ -70,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026
+ Last Updated on 30/09/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
