@@ -39,20 +39,20 @@ Sunday       377 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 8 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   26.89% 
-TypeScript               8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.21% 
-Other                    2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Rust                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-Python                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
+Markdown                 11 hrs 21 mins      ██████░░░░░░░░░░░░░░░░░░░   27.29% 
+TypeScript               8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.67% 
+Python                   4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
+Rust                     2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.12% 
+Other                    2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.54%
 
 🔥 Editors: 
-Claude Code              24 hrs 43 mins      ███████████████████░░░░░░   76.84% 
-VS Code                  4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57% 
-Codex Vscode             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.82% 
-Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+Claude Code              33 hrs 54 mins      ████████████████████░░░░░   81.49% 
+VS Code                  4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+Codex Vscode             2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Codex CLI                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 💻 Operating System: 
-Linux                    32 hrs 10 mins      █████████████████████████   100.0%
+Linux                    41 hrs 37 mins      █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026
+ Last Updated on 02/10/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
