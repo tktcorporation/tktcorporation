@@ -39,20 +39,19 @@ Sunday       379 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 9 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.31% 
-Python                   4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-SQL                      3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Bash                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-TypeScript               2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.31%
+Markdown                 8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   30.94% 
+Python                   4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+SQL                      3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Bash                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+TypeScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
 
 🔥 Editors: 
-Claude Code              28 hrs 50 mins      ██████████████████████░░░   90.84% 
-VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-Codex Vscode             47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Claude Code              25 hrs 41 mins      ███████████████████████░░   93.23% 
+VS Code                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+Codex Vscode             39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.39%
 
 💻 Operating System: 
-Linux                    31 hrs 45 mins      █████████████████████████   100.0%
+Linux                    27 hrs 33 mins      █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +68,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026
+ Last Updated on 06/10/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
