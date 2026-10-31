@@ -13,22 +13,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    259 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
-🌆 Daytime    617 commits    ███████░░░░░░░░░░░░░░░░░░   27.69% 
-🌃 Evening    687 commits    ███████░░░░░░░░░░░░░░░░░░   30.83% 
-🌙 Night      665 commits    ███████░░░░░░░░░░░░░░░░░░   29.85%
+🌞 Morning    259 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+🌆 Daytime    617 commits    ███████░░░░░░░░░░░░░░░░░░   27.71% 
+🌃 Evening    686 commits    ███████░░░░░░░░░░░░░░░░░░   30.8% 
+🌙 Night      665 commits    ███████░░░░░░░░░░░░░░░░░░   29.86%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       459 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+Monday       458 commits    █████░░░░░░░░░░░░░░░░░░░░   20.57% 
 Tuesday      249 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
 Wednesday    251 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Thursday     173 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
-Friday       237 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Saturday     421 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
-Sunday       438 commits    █████░░░░░░░░░░░░░░░░░░░░   19.66%
+Thursday     171 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   7.68% 
+Friday       240 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
+Saturday     420 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.86% 
+Sunday       438 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67%
 
 ```
 
@@ -39,28 +39,28 @@ Sunday       438 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 9 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   34.46% 
-Other                    3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.84% 
-Python                   2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.01%
+Markdown                 10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.49% 
+Other                    3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
+Python                   3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+TypeScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+SQL                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.2%
 
 🔥 Editors: 
-Claude Code              14 hrs 5 mins       ████████████░░░░░░░░░░░░░   51.39% 
-VS Code                  7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.42% 
-Codex Vscode             5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
-Codex Exec               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
+Claude Code              16 hrs 58 mins      █████████████░░░░░░░░░░░░   55.0% 
+VS Code                  7 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16% 
+Codex Vscode             5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
+Codex Exec               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 💻 Operating System: 
-Linux                    27 hrs 24 mins      █████████████████████████   100.0%
+Linux                    30 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            ████████████████░░░░░░░░░   65.85% 
-C#                       7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+TypeScript               53 repos            ████████████████░░░░░░░░░   64.63% 
+C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
 Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
 Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
 JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
@@ -69,7 +69,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026
+ Last Updated on 31/10/2026
 <!--END_SECTION:waka-->
 
 [![](https://raw.githubusercontent.com/tktcorporation/tktcorporation/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
